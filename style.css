@@ -1,11 +1,17 @@
 body {
     font-family: Calibri, sans-serif;
     margin: 0; padding: 0;
-}
+    }
 
 header {
     background: #007bff;
     color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+ngrok {
+    background: #007bff;
+    color: Red;
     text-align: center;
     padding: 50px 20px;
 }
@@ -19,7 +25,7 @@ header {
     text-decoration: none;
     font-weight: bold;
     border-radius: 25px;
-}
+    }
 
 section#features {
     padding: 40px 20px;
